@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Full Stack AI Lab Ltd.",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -27,9 +27,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "AI agents shape our",
+    "subtitle": "boundless future.",
+    "description": "With 8+ years in the machine learning and AI industry, we deliver state of the art AI solutions to help you achieve your business goals. Whether you're looking to automate your business processes, or to build a recommendation engine, we've got you covered.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
@@ -37,11 +37,11 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:fullstackailab@gmail.com?subject=I would like to know more about your services"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Full Stack AI Lab",
     "items": [
       {
         "title": "A plug n play template",
