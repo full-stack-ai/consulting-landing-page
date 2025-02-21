@@ -5,7 +5,7 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Services",
       "href": "product"
     },
     {
@@ -18,7 +18,7 @@
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "About Us",
       "href": "about"
     }
   ],
@@ -27,10 +27,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "AI agents shape our",
-    "subtitle": "boundless future.",
+    "title": "For AI",
+    "subtitle": "sky is the limit",
     "description": "With 8+ years in the machine learning and AI industry, we deliver state of the art AI solutions to help you achieve your business goals. Whether you're looking to automate your business processes, or to build a recommendation engine, we've got you covered.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/workingTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -44,8 +44,8 @@
     "title": "Full Stack AI Lab",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "We help you find your way",
+        "description": "We help you find your way with AI. Whether you're looking to automate your business processes, or to build a recommendation engine, we've got you covered.",
         "img": "/assets/images/product1.jpg"
       },
       {
@@ -83,35 +83,35 @@
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Our Services",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Initial Consulting",
+        "price": "$75",
+        "priceDetails": "per session",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Requirement gathering",
+          "Understand your business goals",
+          "Discuss potential solutions",
+          "Next steps"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Workshop",
+        "price": "Contact us",
+        "priceDetails": "",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Comprehensive sessions tailored to your startup",
+          "Help you where AI can be applied",
+          "Come up with a roadmap",
+          "Set up your team for success"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Application Development",
+        "price": "Contact Us",
+        "priceDetails": "",
         "features": [
           "50 users",
           "24/7 Support",
@@ -145,9 +145,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/Hadi2525",
+      "twitter": "https://x.com/fullstackinfoai",
+      "linkedin": "https://www.linkedin.com/in/h1rouhani/"
     }
   }
 }
